@@ -21,7 +21,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m working as a Full Stack Developer Intern and contributing to frontend and backend for building web applications.
 
-- :zap: In my free time, I enhancing my algorithm & data structure knowledge, participate in hackathons.
+- :seedling: Currently learning algorithms & data structures.
+
+- :zap: I enjoy participating in hackathons.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sandraashipala)
 
