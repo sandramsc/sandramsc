@@ -9,5 +9,4 @@
   <img src="https://img.shields.io/badge/Twitter-9cf?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
 </div>
-![](https://komarev.com/ghpvc/?username=sajustsmile&style=plastic&color=dc143c&label=PROFILE+VIEWS)
-<img src="https://komarev.com/ghpvc/?username=sajustsmile&style=plastic&color=pink&label=PROFILE+VIEWS" align="center" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=sajustsmile&style=plastic&color=blueviolet&label=PROFILE+VIEWS" align="center" alt=""/>
