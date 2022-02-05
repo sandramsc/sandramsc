@@ -21,7 +21,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m working as a Full Stack Developer Intern and contributing to frontend and backend for building web applications.
 
-- :seedling: Currently learning algorithms & data structures.
+- :seedling: Currently learning <b>algorithms</b> & <b>data structures</b>.
 
 - :zap: I enjoy participating in hackathons.
 
