@@ -9,4 +9,4 @@
   <img src="https://img.shields.io/badge/Twitter-9cf?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=sajustsmile&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=sajustsmile&style=plastic&color=pink" align="center" alt=""/>
