@@ -49,4 +49,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sajustsmile&theme=dark&background=990026)](https://git.io/streak-stats)
-![S's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajustsmile&theme=maroongold&show_icons=true)
+![Sandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajustsmile&theme=maroongold&show_icons=true)
