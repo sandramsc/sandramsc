@@ -17,7 +17,7 @@
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working as a Full Stack Developer Intern and contributing to frontend and backend for building web applications.
+- :telescope: Currently working as a Full Stack Developer Intern and contributing to frontend and backend for building web applications.
 
 - :seedling: Currently learning <b>algorithms</b> & <b>data structures</b>.
 
