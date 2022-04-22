@@ -44,5 +44,5 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sajustsmile&theme=dark&background=990026)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ssandramsc&theme=dark&background=990026)](https://git.io/streak-stats)
 ![Sandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandramsc&theme=maroongold&show_icons=true)
