@@ -13,13 +13,13 @@
 
 ### :woman_technologist: About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
 
-- :telescope: Currently working as a Full Stack Developer Intern and contributing to frontend and backend for building web applications.
+- :telescope: Currently working as a Frontend Developer Intern and contributing to frontend and backend for building web applications.
 
 - :seedling: Currently learning <b>algorithms</b> & <b>data structures</b>.
 
 - :zap: I enjoy participating in hackathons.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sandraashipala)
+- :mailbox:How to reach me [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sandraashipala)
 
 ---
 
