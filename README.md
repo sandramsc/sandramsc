@@ -13,13 +13,13 @@
 
 ### :woman_technologist: About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
 
-- :telescope: Open to working as a Frontend Programmer to contribute to the frontend/backend for building web applications.
+- :telescope: Open to working as a Frontend Programmer to contribute to the frontend/backend for building web apps.
 
 - :seedling: Currently learning <b>algorithms</b> & <b>data structures</b>.
 
 - :zap: I enjoy participating in hackathons.
 
-- :mailbox:How to reach me [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sandraashipala)
+- :mailbox: How to reach me [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sandraashipala)
 
 ---
 
