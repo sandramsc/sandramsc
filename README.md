@@ -12,7 +12,7 @@
 
 ### :woman_technologist: About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
 
-- :telescope: Open to working as a Programmer to contribute to the frontend/backend for building web apps.
+- :telescope: Software developer, contributing to the frontend/backend for building web apps.
 
 - :seedling: Currently learning <b>algorithms</b> & <b>data structures</b>.
 
