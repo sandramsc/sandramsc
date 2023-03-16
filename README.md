@@ -22,7 +22,7 @@
 ### :seedling: What I'm doing now... 
 
 - Participating in the <a href="https://www.alxafrica.com/women-in-tech/">
-  ALX Software Engineering program
+  ALX WiT Software Engineering program
  </a> (March 2023 cohort)
 ---
 
