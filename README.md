@@ -21,7 +21,9 @@
 ---
 ### :seedling: What I'm doing now... 
 
-- Participating in the ALX Software Engineering program (March 2023 cohort)
+- Participating in the <a href="https://www.alxafrica.com/women-in-tech/">
+  ALX Software Engineering program
+ </a> (March 2023 cohort)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
