@@ -14,12 +14,14 @@
 
 - :telescope: Software developer, contributing to the frontend/backend for building web apps.
 
-- :seedling: Currently learning <b>algorithms</b> & <b>data structures</b>.
-
 - :zap: I enjoy participating in hackathons.
 
 - :mailbox: How to reach me [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sandraashipala)
 
+---
+### :seedling: What I'm doing now... 
+
+- Participating in the ALX Software Engineering program (March 2023 cohort)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
