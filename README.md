@@ -34,6 +34,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
+### 🏆 Achievements:
+- Finalist (Top 5): Lablab.ai - ChatGPT & Whisper AI hackathon (2023)
+- 1st place: NanoGiants GmbH - Growth hackathon (2022)
+- 1st place: LongHack - AI & Bioinformatics hackathon track (2022)
+- Global Nominee: NASA Space Apps Challenge (2021)
+- 1st place: NanoGiants GmbH - User Centered Design hackathon (2021)
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sandramsc&theme=dark&background=990026)](https://git.io/streak-stats)
