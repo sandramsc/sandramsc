@@ -34,11 +34,11 @@
 </div>
 
 ### 🏆 Achievements:
-- Finalist (Top 5): Lablab.ai - ChatGPT & Whisper AI hackathon (2023)
-- 1st place: NanoGiants GmbH - Growth hackathon (2022)
-- 1st place: LongHack - AI & Bioinformatics hackathon track (2022)
-- Global Nominee: NASA Space Apps Challenge (2021)
-- 1st place: NanoGiants GmbH - User Centered Design hackathon (2021)
+- [Finalist (Top 5)](https://lablab.ai/event/chatgpt-api-and-whisper-api-global-hackathon): Lablab.ai - ChatGPT & Whisper AI hackathon (2023)
+- [1st place](https://github.com/sandramsc/HyperStream): NanoGiants GmbH - Growth hackathon (2022)
+- [1st place](https://github.com/sandramsc/biocoins): LongHack - AI & Bioinformatics hackathon track (2022)
+- [Global Nominee](https://github.com/sandramsc/sandramsc.github.io): NASA Space Apps Challenge (2021)
+- [1st place](https://github.com/sandramsc/TVA): NanoGiants GmbH - User Centered Design hackathon (2021)
 
 ### :fire: My Stats :
 
