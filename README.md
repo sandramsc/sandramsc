@@ -15,7 +15,7 @@
 - :telescope: Software developer, contributing to the frontend/backend for building web apps.
 - :basecampy: Exploring Open Source
 
-- :zap: I enjoy participating in hackathons & contributing to open-source.
+- :zap: I enjoy participating in hackathons
 
 - :mailbox: How to reach me [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sandraashipala)
 
