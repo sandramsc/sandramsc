@@ -17,8 +17,8 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: "sandraashipala" # Hashnode Username
-          COUNT: 3 # MAX Visible
+          COUNT: 2 # MAX Visible
           STYLE: "blog-left"
-          BLOG_URL: "https://sandraashipala.hashnode.dev/"
+          BLOG_URL: "https://sandraashipala.hashnode.dev"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
