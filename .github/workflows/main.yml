@@ -1,4 +1,4 @@
-name: "📚 latest Blog"
+name: "📚  Lastest Hashnode Blog Post"
 
 on:
   workflow_dispatch:
