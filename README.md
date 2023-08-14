@@ -26,9 +26,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-### ✍🏽 Latest Hashnode Blog Post
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### ✍🏽 Latest Hashnode Blog Post👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 ### 🏆 Achievements:
 - [Finalist (Top 5)](https://lablab.ai/event/chatgpt-api-and-whisper-api-global-hackathon): Lablab.ai - ChatGPT & Whisper AI hackathon (2023)
