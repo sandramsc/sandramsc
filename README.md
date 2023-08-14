@@ -26,7 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-### ✍🏽 Latest Hashnode Blog Post👇
+### ✍🏽 Latest Hashnode Blog Post
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://sandraashipala.hashnode.dev/rss.xml/git-commands" title="Git Commands"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691260554244/0237873b-bdff-4c25-a030-a2381dbd8aa0.png" alt="Git Commands" width="250px" align="left" /></a>
