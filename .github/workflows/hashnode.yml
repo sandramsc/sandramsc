@@ -19,6 +19,6 @@ jobs:
           USERNAME: "sandraashipala" # Hashnode Username
           COUNT: 3 # MAX Visible
           STYLE: "blog-left"
-          BLOG_URL: "https://sandraashipala.hashnode.dev/rss.xml"
+          BLOG_URL: "https://sandraashipala.hashnode.dev/"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
