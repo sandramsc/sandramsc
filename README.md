@@ -26,6 +26,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
+### Latest Blogs
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### 🏆 Achievements:
 - [Finalist (Top 5)](https://lablab.ai/event/chatgpt-api-and-whisper-api-global-hackathon): Lablab.ai - ChatGPT & Whisper AI hackathon (2023)
 - [1st place](https://github.com/sandramsc/Hackathons_2021-to-2023/tree/main/HyperStream): NanoGiants GmbH - Growth hackathon (2022)
@@ -37,4 +41,3 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sandramsc&theme=dark&background=990026)](https://git.io/streak-stats)
 ![Sandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandramsc&theme=maroongold&show_icons=true)
-
