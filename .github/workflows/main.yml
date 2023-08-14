@@ -1,18 +1,25 @@
-name: Lastest Hashnode Blog Post
+name: "📚 latest Blog"
+
 on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
   workflow_dispatch:
+  schedule:
+    - cron: "0 */24 * * *" # Runs Every 24 Hours
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest Hashnode blog posts
+  update_blogs:
+    name: "Update With Latest Blogs"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: sandramsc/blog-post-workflow@master
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@main
+
+      - name: "📚  Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@1.1.1"
         with:
-          comment_tag_name: "HASHNODE"
-          commit_message: "Updated readme with the latest Hashnode Blog data"
-          feed_list: "https://sandraashipala.hashnode.dev/rss.xml"
+          USERNAME: "Sachinchaurasiya" # Hashnode Username
+          COUNT: 3 # MAX Visisble
+          STYLE: "blog-left"
+          BLOG_URL: "https://blog.sachinchaurasiya.dev/"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
