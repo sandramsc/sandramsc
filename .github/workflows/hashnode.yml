@@ -16,6 +16,7 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@1.1.1"
         with:
+        COMMENT_TAG_NAME: "BLOG-POST-LIST"
           USERNAME: "sandraashipala" # Hashnode Username
           COUNT: 3 # MAX Visisble
           STYLE: "blog-left"
