@@ -29,23 +29,18 @@
 ### ✍🏽 Latest Hashnode Blog Post
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://sandraashipala.hashnode.dev//git-commands" title="Git Commands"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691260554244/0237873b-bdff-4c25-a030-a2381dbd8aa0.png" alt="Git Commands" width="250px" align="left" /></a>
-<a href="https://sandraashipala.hashnode.dev//git-commands" title="Git Commands"><strong>Git Commands</strong></a>
+<a href="https://sandraashipala.hashnode.dev/git-commands" title="Git Commands"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691260554244/0237873b-bdff-4c25-a030-a2381dbd8aa0.png" alt="Git Commands" width="250px" align="left" /></a>
+<a href="https://sandraashipala.hashnode.dev/git-commands" title="Git Commands"><strong>Git Commands</strong></a>
 <div><strong>14 Aug 2023</strong></div>
 <br/> Introduction
 Git is a powerful version control system that allows developers (and professionals who might benefit from the tool) to track changes, collaborate on projects, and manage code efficiently (you can learn more about version control here). I... </p> <br/> <br/>
 <p align="left">
-<a href="https://sandraashipala.hashnode.dev//version-control" title="Version Control"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691260259623/d5b23bce-59c5-4509-a642-1e07cd82c619.png" alt="Version Control" width="250px" align="left" /></a>
-<a href="https://sandraashipala.hashnode.dev//version-control" title="Version Control"><strong>Version Control</strong></a>
+<a href="https://sandraashipala.hashnode.dev/version-control" title="Version Control"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691260259623/d5b23bce-59c5-4509-a642-1e07cd82c619.png" alt="Version Control" width="250px" align="left" /></a>
+<a href="https://sandraashipala.hashnode.dev/version-control" title="Version Control"><strong>Version Control</strong></a>
 <div><strong>14 Aug 2023</strong></div>
 <br/> Introduction
 Version control is a practice that allows you to manage and track changes to files or a set of files over time. As a software development tool, it is commonly used for managing documents, spreadsheets, and multimedia files.
 Version Contr... </p> <br/> <br/>
-<p align="left">
-<a href="https://sandraashipala.hashnode.dev//recursion" title="Recursion"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691259748431/657b0142-fe6d-4aa1-af80-0263a2240e01.png" alt="Recursion" width="250px" align="left" /></a>
-<a href="https://sandraashipala.hashnode.dev//recursion" title="Recursion"><strong>Recursion</strong></a>
-<div><strong>13 Aug 2023</strong></div>
-<br/> Let’s say someone got you a gift and they handed you this huge wrapped-up box that required all your strength to hold. You then start to unwrap this gift and soon realise that inside this gift-wrapped box is another...gift-wrapped box…you continue to... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### 🏆 Achievements:
