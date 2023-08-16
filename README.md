@@ -1,5 +1,5 @@
  <div id="header" align="center">
-  <img src="https://github.com/sandramsc/sandramsc/assets/19821445/5dbdc102-a0ae-4070-9e3e-dd4b8bdd383f" width="1050"/>
+  <img src="https://github.com/sandramsc/sandramsc/assets/19821445/25d9151a-9192-407d-a222-1b7c4ca52279" width="1050"/>
 </div>
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
