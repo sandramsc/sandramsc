@@ -1,5 +1,5 @@
  <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
+  <img src="https://github.com/sandramsc/sandramsc/assets/19821445/8a41193a-4204-41a2-b4f7-03d21974a11f" width="1050"/>
 </div>
 <div id="badges" align="center">
 <a href="https://linkedin.com/in/sandraashipala">
