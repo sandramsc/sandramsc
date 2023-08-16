@@ -56,5 +56,5 @@ Node.js has revolutionized the way server-side applications are built. With its 
 
 ### :fire: My Stats :
 ![Sandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandramsc&bg_color=30,e96443,904e95&title_color=fff&text_color=fff")
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandramsc_progress=true)
+![Top Langs]("https://github-readme-stats.vercel.app/api/top-langs/?username=sandramsc&layout=compact")
 
