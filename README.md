@@ -55,6 +55,6 @@ Node.js has revolutionized the way server-side applications are built. With its 
 - [1st place](https://github.com/sandramsc/Hackathons_2021-to-2023/tree/main/TVA): NanoGiants GmbH - User Centered Design hackathon (2021)
 
 ### :fire: My Stats :
- <div id="header" align="center">
+ <divalign="center">
 ![Sandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandramsc&theme=maroongold&show_icons=true)
 </div>
