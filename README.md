@@ -32,16 +32,16 @@
 ### ✍🏽 Latest Hashnode Blog Post
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sandraashipala.hashnode.dev/unlocking-the-power-of-python-1" title="Unlocking the Power of Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691262209657/fac106de-99e2-411d-a4f3-99665d5fde96.png" alt="Unlocking the Power of Python" width="250px" align="left" /></a>
+<a href="https://sandraashipala.hashnode.dev/unlocking-the-power-of-python-1" title="Unlocking the Power of Python"><strong>Unlocking the Power of Python</strong></a>
+<div><strong>17 Aug 2023</strong></div>
+<br/> This post is part two of Unlocking the Power of Python, covering functions to explore the idea of and how to use the range function. So, let’s continue on this thrilling journey and Unlock the Power of Python.
+What is a function and how do you use fu... </p> <br/> <br/>
+<p align="left">
 <a href="https://sandraashipala.hashnode.dev/unlocking-the-power-of-python" title="Unlocking the Power of Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691261598305/3531c629-a993-4e76-827b-1714f6b1c41a.png" alt="Unlocking the Power of Python" width="250px" align="left" /></a>
 <a href="https://sandraashipala.hashnode.dev/unlocking-the-power-of-python" title="Unlocking the Power of Python"><strong>Unlocking the Power of Python</strong></a>
 <div><strong>16 Aug 2023</strong></div>
 <br/> Developed by Guido van Rossum in 1991, Python has evolved into an extremely versatile and powerful programming language that is well-known to both beginners and seasoned developers alike. Its clean and elegant syntax makes coding a breeze, allowing u... </p> <br/> <br/>
-<p align="left">
-<a href="https://sandraashipala.hashnode.dev/maximising-efficiency-with-nodejs-and-nvm" title="Maximising Efficiency with Node.js and NVM"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691261101356/084f463d-2cdc-4613-85b0-2647054ca7dc.png" alt="Maximising Efficiency with Node.js and NVM" width="250px" align="left" /></a>
-<a href="https://sandraashipala.hashnode.dev/maximising-efficiency-with-nodejs-and-nvm" title="Maximising Efficiency with Node.js and NVM"><strong>Maximising Efficiency with Node.js and NVM</strong></a>
-<div><strong>15 Aug 2023</strong></div>
-<br/> Introduction
-Node.js has revolutionized the way server-side applications are built. With its event-driven architecture and extensive module ecosystem, Node.js enables developers to create highly scalable and performant applications. However, managing... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### 📚 Publications (Master Arbeit): 
