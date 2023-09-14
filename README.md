@@ -16,7 +16,7 @@
 ### :woman_technologist: About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
 
 - :telescope: Software Engineer, currently exploring DevOps.
-- :basecampy: Exploring Open Source
+- :basecampy: OSS Contributer @Layer5, @Meshery, @BioDrop
 
 - :zap: Hackathon Enthusiast
 
