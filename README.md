@@ -47,6 +47,9 @@ What is a function and how do you use fu... </p> <br/> <br/>
 ### 📚 Publications (Master Arbeit): 
 - [Exploring Visualisations for Financial Statements in Virtual Reality](https://ieeexplore.ieee.org/document/9319099)
 
+### 📛 Badges: 
+- [Certificates Verified via Credly](https://www.credly.com/users/sandra-ashipala/badges)
+
 ### 🏆 Achievements:
 - [Finalist (Top 5)](https://lablab.ai/event/chatgpt-api-and-whisper-api-global-hackathon): Lablab.ai - ChatGPT & Whisper AI hackathon (2023)
 - [1st place](https://github.com/sandramsc/Hackathons_2021-to-2023/tree/main/HyperStream): NanoGiants GmbH - Growth hackathon (2022)
