@@ -44,7 +44,7 @@ What is a function and how do you use fu... </p> <br/> <br/>
 <br/> Developed by Guido van Rossum in 1991, Python has evolved into an extremely versatile and powerful programming language that is well-known to both beginners and seasoned developers alike. Its clean and elegant syntax makes coding a breeze, allowing u... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
-### 📚 Publications (Master Arbeit): 
+### 🎓 Publications (Master Arbeit): 
 - [Exploring Visualisations for Financial Statements in Virtual Reality](https://ieeexplore.ieee.org/document/9319099)
 
 ### 🚀 Credly: 
@@ -57,6 +57,7 @@ What is a function and how do you use fu... </p> <br/> <br/>
 - [Global Nominee](https://github.com/sandramsc/sandramsc.github.io): NASA Space Apps Challenge (2021)
 - [1st place](https://github.com/sandramsc/Hackathons_2021-to-2023/tree/main/TVA): NanoGiants GmbH - User Centered Design hackathon (2021)
 
-### :fire: My Stats :
-![Sandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandramsc&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+### 📖 Currently reading:
+- The Phoenix project
+
 
