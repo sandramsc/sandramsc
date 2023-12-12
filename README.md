@@ -58,6 +58,7 @@ What is a function and how do you use fu... </p> <br/> <br/>
 - [1st place](https://github.com/sandramsc/Hackathons_2021-to-2023/tree/main/TVA): NanoGiants GmbH - User Centered Design hackathon (2021)
 
 ### 📖 Currently reading:
-- The Phoenix Project
+- The Phoenix Project (Book by Gene Kim, George Spafford, and Kevin Behr)
+- Python for DevOps (Book by Noah Gift, Kennedy Behrman, Alfredo Deza, Grig Gheorghiu)
 
 
