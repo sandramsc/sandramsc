@@ -18,8 +18,6 @@
 - :telescope: Software Engineer, currently exploring DevOps.
 - :basecampy: OSS Contributor @Layer5, @BioDrop, @WagtailCMS
 
-- :zap: Hackathon Enthusiast
-
 - :mailbox: How to reach me [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sandraashipala)
 
 ### 🛠️ Languages and Tools :
