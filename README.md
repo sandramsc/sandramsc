@@ -30,16 +30,16 @@
 ### ✍🏽 Latest Hashnode Blog Post
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sandraashipala.hashnode.dev/installing-wsl-on-windows-11-home-ubuntu" title="Installing WSL on Windows 11 Home (Ubuntu)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1703876433642/1697864a-77d1-4998-93af-e111fe6bed53.png" alt="Installing WSL on Windows 11 Home (Ubuntu)" width="250px" align="left" /></a>
+<a href="https://sandraashipala.hashnode.dev/installing-wsl-on-windows-11-home-ubuntu" title="Installing WSL on Windows 11 Home (Ubuntu)"><strong>Installing WSL on Windows 11 Home (Ubuntu)</strong></a>
+<div><strong>29 Dec 2023</strong></div>
+<br/> Windows Subsystem for Linux (WSL) offers a powerful way to integrate Windows 11 Home with Linux. Having a growing interest in Linux and venturing into DevOps, I decided to find out how Ubuntu can be used on my new Windows machine, after previously tr... </p> <br/> <br/>
+<p align="left">
 <a href="https://sandraashipala.hashnode.dev/unlocking-the-power-of-python-1" title="Unlocking the Power of Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691262209657/fac106de-99e2-411d-a4f3-99665d5fde96.png" alt="Unlocking the Power of Python" width="250px" align="left" /></a>
 <a href="https://sandraashipala.hashnode.dev/unlocking-the-power-of-python-1" title="Unlocking the Power of Python"><strong>Unlocking the Power of Python</strong></a>
 <div><strong>17 Aug 2023</strong></div>
 <br/> This post is part two of Unlocking the Power of Python, covering functions to explore the idea of and how to use the range function. So, let’s continue on this thrilling journey and Unlock the Power of Python.
 What is a function and how do you use fu... </p> <br/> <br/>
-<p align="left">
-<a href="https://sandraashipala.hashnode.dev/unlocking-the-power-of-python" title="Unlocking the Power of Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691261598305/3531c629-a993-4e76-827b-1714f6b1c41a.png" alt="Unlocking the Power of Python" width="250px" align="left" /></a>
-<a href="https://sandraashipala.hashnode.dev/unlocking-the-power-of-python" title="Unlocking the Power of Python"><strong>Unlocking the Power of Python</strong></a>
-<div><strong>16 Aug 2023</strong></div>
-<br/> Developed by Guido van Rossum in 1991, Python has evolved into an extremely versatile and powerful programming language that is well-known to both beginners and seasoned developers alike. Its clean and elegant syntax makes coding a breeze, allowing u... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### 🎓 Publications (Master Arbeit): 
