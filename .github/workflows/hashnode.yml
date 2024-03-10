@@ -3,7 +3,7 @@ name: "Lastest Hashnode Blog Post"
 on:
   workflow_dispatch:
   schedule:
-    - cron:  "0 0 * * 0" # Runs every Sunday, on the hour
+    - cron:  "0 * * * *" # Runs every Sunday, on the hour
 
 jobs:
   update_blogs:
