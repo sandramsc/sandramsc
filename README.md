@@ -29,17 +29,7 @@
 
 ### ✍🏽 Latest Hashnode Blog Post
 <!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://sandraashipala.hashnode.dev/installing-wsl-on-windows-11-home-ubuntu" title="Installing WSL on Windows 11 Home (Ubuntu)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1703876433642/1697864a-77d1-4998-93af-e111fe6bed53.png" alt="Installing WSL on Windows 11 Home (Ubuntu)" width="250px" align="left" /></a>
-<a href="https://sandraashipala.hashnode.dev/installing-wsl-on-windows-11-home-ubuntu" title="Installing WSL on Windows 11 Home (Ubuntu)"><strong>Installing WSL on Windows 11 Home (Ubuntu)</strong></a>
-<div><strong>29 Dec 2023</strong></div>
-<br/> Windows Subsystem for Linux (WSL) offers a powerful way to integrate Windows 11 Home with Linux. Having a growing interest in Linux and venturing into DevOps, I decided to find out how Ubuntu can be used on my new Windows machine, after previously tr... </p> <br/> <br/>
-<p align="left">
-<a href="https://sandraashipala.hashnode.dev/unlocking-the-power-of-python-1" title="Unlocking the Power of Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691262209657/fac106de-99e2-411d-a4f3-99665d5fde96.png" alt="Unlocking the Power of Python" width="250px" align="left" /></a>
-<a href="https://sandraashipala.hashnode.dev/unlocking-the-power-of-python-1" title="Unlocking the Power of Python"><strong>Unlocking the Power of Python</strong></a>
-<div><strong>17 Aug 2023</strong></div>
-<br/> This post is part two of Unlocking the Power of Python, covering functions to explore the idea of and how to use the range function. So, let’s continue on this thrilling journey and Unlock the Power of Python.
-What is a function and how do you use fu... </p> <br/> <br/>
+<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1710004228676/78b7d31f-7747-4179-afda-6d3f93a4360a.png" alt="Demystifying Open Source"></td><td><a href="https://sandraashipala.hashnode.dev/demystifying-open-source"><strong>Demystifying Open Source</strong></a><br>Picture this: You're honing your tech skills in silos (⌒_⌒;) and building projects for your GitHub and resume to impress the ever-inquisitive technical hiring manager who seeks the unique aspects in projects provided by potential candidates. Along yo...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1703876433642/1697864a-77d1-4998-93af-e111fe6bed53.png" alt="Installing WSL on Windows 11 Home (Ubuntu)"></td><td><a href="https://sandraashipala.hashnode.dev/installing-wsl-on-windows-11-home-ubuntu"><strong>Installing WSL on Windows 11 Home (Ubuntu)</strong></a><br>Windows Subsystem for Linux (WSL) offers a powerful way to integrate Windows 11 Home with Linux. Having a growing interest in Linux and venturing into DevOps, I decided to find out how Ubuntu can be used on my new Windows machine, after previously tr...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 ### 🎓 Publications (Master Arbeit): 
