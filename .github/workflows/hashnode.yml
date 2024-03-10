@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@main
 
       - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@main"
+        uses: "Sachin-chaurasiya/hashnode-blog-action@main"
         with:
           USERNAME: "sandraashipala" # Hashnode Username
           COUNT: 2 # MAX Visible
