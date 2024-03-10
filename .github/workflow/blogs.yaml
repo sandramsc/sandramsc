@@ -16,9 +16,8 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "Sachin-chaurasiya/hashnode-blog-action@main"
         with:
-          USERNAME: "sandraashipala" # Hashnode Username
-          COUNT: 2 # MAX Visible
-          STYLE: "blog-left"
-          BLOG_URL: "https://sandraashipala.hashnode.dev"
+          HASHNODE_PUBLICATION_NAME: 'https://sandraashipala.hashnode.dev'
+          POST_COUNT: 2 # MAX Visible
+          FORMAT: "blog-left"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
