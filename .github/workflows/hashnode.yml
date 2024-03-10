@@ -16,7 +16,7 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "Sachin-chaurasiya/hashnode-blog-action@main"
         with:
-          HASHNODE_PUBLICATION_NAME: 'https://sandraashipala.hashnode.dev'
+          HASHNODE_PUBLICATION_NAME: 'sandraashipala.hashnode.dev'
           POST_COUNT: 2 # MAX Visible
           FORMAT: "blog-left"
         env:
