@@ -15,7 +15,7 @@
 
 ### :woman_technologist: About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
 
-- :telescope: Currently strengthening my DevOps skills.
+- :telescope: Currently strengthening my DevOps with FullStack Engineering skills.
 - :basecampy: OSS Contributor @Layer5, @BioDrop, @WagtailCMS
 
 - :mailbox: How to reach me [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sandraashipala)
