@@ -60,6 +60,5 @@
 
 ### 📖 Currently reading:
 - The Phoenix Project (Book by Gene Kim, et al.)
-- Python for DevOps (Book by Noah Gift, et al.)
 
 
