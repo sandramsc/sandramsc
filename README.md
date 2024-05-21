@@ -58,6 +58,7 @@
 - [Verified Credly badges](https://www.credly.com/users/sandra-ashipala/badges)
 
 ### 🏆 Achievements:
+- [1st place](https://lablab.ai/event/assistants-api-llamaindex-mongodb-battle/ragfier/ragfier?review=true): Lablab.ai - Assistants API and Trulens hackathon (2024)
 - [Finalist (Top 5)](https://lablab.ai/event/chatgpt-api-and-whisper-api-global-hackathon): Lablab.ai - ChatGPT & Whisper AI hackathon (2023)
 - [1st place](https://github.com/sandramsc/Hackathons_2021-to-2023/tree/main/HyperStream): NanoGiants GmbH - Growth hackathon (2022)
 - [1st place](https://github.com/sandramsc/Hackathons_2021-to-2023/tree/main/biocoins): LongHack - AI & Bioinformatics hackathon track (2022)
