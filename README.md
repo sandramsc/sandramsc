@@ -16,7 +16,7 @@
 ### :woman_technologist: About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
 
 - :telescope: Currently strengthening my DevOps skills.
-- :basecampy: OSS Contributor [@Meshery](https://meshery.io), [@WagtailCMS](https://wagtail.org), [@n8n](https://n8n.io), [nanogiants](https://www.nanogiants.de/)
+- :basecampy: OSS Contributor [@Meshery](https://meshery.io), [@WagtailCMS](https://wagtail.org), [@n8n](https://n8n.io), [@nanogiants](https://www.nanogiants.de/)
 - :mailbox: How to reach me [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sandraashipala)
 
 ### 🛠️ Current Languages and Tools :
