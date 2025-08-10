@@ -64,7 +64,7 @@
 - [Global Nominee](https://github.com/sandramsc/sandramsc.github.io): NASA Space Apps Challenge (2021)
 - [1st place](https://github.com/sandramsc/Hackathons_2021-to-2023/tree/main/TVA): NanoGiants GmbH - User Centered Design hackathon (2021)
 
-### 📖 Currently reading:
-- The Phoenix Project (Book by Gene Kim, et al.)
+
+
 
 
